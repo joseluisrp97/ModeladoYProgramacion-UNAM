@@ -1,0 +1,461 @@
+BIENVENIDOS A SUPER SLAM BRAWL 
+ Hora de elegir a sus personajes:
+ 
+El espectador 1 ha seleccionado como su personaje a: Dittuu
+
+El espectador 2 ha seleccionado como su personaje a: Dittuu
+
+El espectador 3 ha seleccionado como su personaje a: MeganMan
+
+El espectador 4 ha seleccionado como su personaje a: Korby
+
+Preparados, listos.. Peleen!
+
+
+
+ ----------------------------------------------------------
+
+
+Vida de Korby: 150/150
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 150/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Chun-Loco
+
+Dittuu ataca a MeganMan golpe básico (- 25 ptsVida)
+
+MeganMan se defiende danza de las auroras (+ 26 ptsVida)
+
+MeganMan lanza un espejismo desértico a Korby. ¡Korby pierde 45 puntos de vida!
+
+MeganMan lanza un espejismo desértico a Dittuu. ¡Dittuu pierde 45 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Vida de Korby: 115/150
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 135/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Korby. ¡Korby pierde 30 puntos de vida!
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Vida de Korby: 95/150
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 135/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Korby. ¡Korby pierde 30 puntos de vida!
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Vida de Korby: 75/150
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 135/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Doctor Vicio
+
+Dittuu ataca a MeganMan golpe básico (- 25 ptsVida)
+
+MeganMan se defiende espejo ilusorio (+ 28 ptsVida)
+
+MeganMan lanza un garra huracán a Korby. ¡Korby pierde 55 puntos de vida!
+
+Gracias a su espejo ilusorio, ¡MeganMan recupera 28 puntos de vida!
+
+MeganMan lanza un garra huracán a Dittuu. ¡Dittuu pierde 55 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Vida de Korby: 30/150
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 110/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Korby. ¡Korby pierde 30 puntos de vida!
+
+Gracias a su defensa básica, ¡MeganMan recupera 20 puntos de vida!
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Vida de Korby: 10/150
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 110/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Korby. ¡Korby pierde 30 puntos de vida!
+
+Gracias a su defensa básica, ¡MeganMan recupera 20 puntos de vida!
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 110/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Chun-Loco
+
+Korby ataca a MeganMan golpe básico (- 20 ptsVida)
+
+MeganMan se defiende danza de las auroras (+ 26 ptsVida)
+
+MeganMan lanza un espejismo desértico a Dittuu. ¡Dittuu pierde 45 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 95/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 95/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 95/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Chun-Loco
+
+Dittuu ataca a MeganMan golpe básico (- 25 ptsVida)
+
+MeganMan se defiende danza de las auroras (+ 26 ptsVida)
+
+MeganMan lanza un espejismo desértico a Dittuu. ¡Dittuu pierde 45 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 80/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 80/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 80/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Chun-Loco
+
+Dittuu ataca a MeganMan golpe básico (- 25 ptsVida)
+
+MeganMan se defiende danza de las auroras (+ 26 ptsVida)
+
+MeganMan lanza un espejismo desértico a Dittuu. ¡Dittuu pierde 45 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 65/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 65/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 65/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Doctor Vicio
+
+Korby ataca a MeganMan golpe básico (- 20 ptsVida)
+
+MeganMan se defiende espejo ilusorio (+ 28 ptsVida)
+
+MeganMan lanza un garra huracán a Dittuu. ¡Dittuu pierde 55 puntos de vida!
+
+Gracias a su espejo ilusorio, ¡MeganMan recupera 28 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 40/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+Gracias a su defensa básica, ¡MeganMan recupera 20 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 40/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+Gracias a su defensa básica, ¡MeganMan recupera 20 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 40/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Doctor Vicio
+
+Korby ataca a MeganMan golpe básico (- 20 ptsVida)
+
+MeganMan se defiende espejo ilusorio (+ 28 ptsVida)
+
+MeganMan lanza un garra huracán a Dittuu. ¡Dittuu pierde 55 puntos de vida!
+
+Gracias a su espejo ilusorio, ¡MeganMan recupera 28 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 15/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+Gracias a su defensa básica, ¡MeganMan recupera 20 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 15/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan lanza un golpe básico a Dittuu. ¡Dittuu pierde 30 puntos de vida!
+
+Gracias a su defensa básica, ¡MeganMan recupera 20 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Vida de Dittuu: 15/150
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha obtenido un potenciador y se hace más fuerte! Ahora consigue los poderes de: Doctor Vicio
+
+Korby ataca a MeganMan golpe básico (- 20 ptsVida)
+
+MeganMan se defiende espejo ilusorio (+ 28 ptsVida)
+
+MeganMan lanza un garra huracán a Dittuu. ¡Dittuu pierde 55 puntos de vida!
+
+Gracias a su espejo ilusorio, ¡MeganMan recupera 28 puntos de vida!
+
+
+ ----------------------------------------------------------
+
+
+Korby ha muerto! Press F to pay respect.
+
+Vida de MeganMan: 150/150
+
+Dittuu ha muerto! Press F to pay respect.
+
+
+ ----------------------------------------------------------
+
+
+MeganMan ha ganado! SALUDEN AL NUEVO CAMPEON DE SUPER SLAM BRAWLERS
